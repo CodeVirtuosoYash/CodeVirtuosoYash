@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year **B.Tech CSE (AI & ML)** at **VIT Chennai** (CGPA 8.74) and **B.S. Data Science & Applications** at **IIT Madras** (concurrent) — both graduating July 2027
+- 🎓 Final-year **B.Tech CSE (AI & ML)** at **VIT Chennai** and **B.S. Data Science & Applications** at **IIT Madras** (concurrent) — both graduating July 2027
 - 🤖 I build production-grade **RAG pipelines, LLM applications, and NLP systems**, and ship them end to end, from ingestion to cloud deployment
 - 📱 Also comfortable across the stack: **React Native, Spring Boot, FastAPI**, on **AWS and GCP**
 - 🔍 Interested in **Explainable AI**, retrieval systems, and making ML reliable in production
