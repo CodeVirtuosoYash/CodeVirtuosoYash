@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer · RAG & LLM Systems · Full-Stack ML Deployment</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/yash-kumar-sinha-0a1b06327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yash.s1408@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
