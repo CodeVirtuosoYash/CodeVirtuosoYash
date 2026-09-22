@@ -35,8 +35,8 @@ Built a RAG pipeline (LangChain + FAISS + hosted LLMs) for secure Q&A over **500
 |---|---|---|
 | [**Feedback-Intel**](https://github.com/CodeVirtuosoYash/Feedback-Intel) | Multi-modal feedback analytics (text, audio, CSV) → sentiment insights, product scorecards, and a RAG chatbot. **42% lower p95 latency** via async queues + caching | FastAPI · PostgreSQL · FAISS · Whisper · RoBERTa · Celery · Redis |
 | [**Briefiq**](https://github.com/CodeVirtuosoYash/Briefiq) | Notes summarizer that reads handwritten/printed notes with OCR and condenses them using LLMs | Python · OpenCV · OCR · LLMs |
-| **RAG Enterprise Document Chatbot** | Full-stack RAG with role-based access, multi-format ingestion (PDF/DOCX/PPTX/TXT), and **sub-2s responses** | LangChain · FAISS · LLaMA 4 (Groq) · FastAPI · Streamlit · AWS Cognito/S3/DynamoDB |
-| **Driver Drowsiness Detection** | Real-time CNN-LSTM detector on facial landmarks, quantized for edge inference on Raspberry Pi | TensorFlow · OpenCV · Raspberry Pi |
+| [**RAG Enterprise Document Chatbot**](https://github.com/CodeVirtuosoYash/RAG-Enterprise-Document-Chatbot) | Full-stack RAG with role-based access, multi-format ingestion (PDF/DOCX/PPTX/TXT), and **sub-2s responses** | LangChain · FAISS · LLaMA 4 (Groq) · FastAPI · Streamlit · AWS Cognito/S3/DynamoDB |
+| [**Driver Drowsiness Detection**](https://github.com/CodeVirtuosoYash/Driver-Drowsiness) | Real-time CNN-LSTM detector on facial landmarks, quantized for edge inference on Raspberry Pi | TensorFlow · OpenCV · Raspberry Pi |
 | [**Cal-Track**](https://github.com/CodeVirtuosoYash/Cal-Track) | Daily calorie tracking app | TypeScript |
 | [**Credit Card Fraud Detection**](https://github.com/CodeVirtuosoYash/Credit-Card-Fraud-Detection-Model) | ML classification on highly imbalanced transaction data | Python · Scikit-learn |
 
